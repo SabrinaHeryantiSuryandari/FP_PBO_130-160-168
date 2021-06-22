@@ -1,0 +1,48 @@
+Data Barang yang dijual
+
+No Identitas    : 12345
+Nama Pembeli    : sabrina
+NO Telepon      : 082567290146
+Alamat Email    : sabrina@gmail.com
+Alamat          : surabaya
+Nama Barang     : tas 
+Deskripsi       : bahan kulit jarang di pakai masih mulus 
+Harga Barang    : 5.000.000 
+
+No Identitas    : 1234
+Nama Pembeli    : sasa
+NO Telepon      : 081259800126
+Alamat Email    : sasa@gmail.com
+Alamat          : surabaya
+Nama Barang     : Rumah 10x15
+Deskripsi       : Alamat di jl cinta ku, ukuran tanah 10x15 sangat luas untuk keluarga kecil, di dekat toll indonesa
+Harga Barang    : 2.000.000.000
+
+No Identitas    : nana
+Nama Pembeli    : 123456
+NO Telepon      : 081201080241
+Alamat Email    : nana@gmail.com
+Alamat          : malang
+Nama Barang     : Tanah Petak
+Deskripsi       : Tanah ukuran 100x50
+Harga Barang    : 3.000.000.000
+
+No Identitas    : 12
+Nama Pembeli    : clau
+NO Telepon      : 089014070934
+Alamat Email    : clau@gmail
+Alamat          : surabaya
+Nama Barang     : antis
+Deskripsi       : wangi jasmin, untuk menghilangkan 99% kuman, 
+Harga Barang    : 5.000
+
+No Identitas    : 19081010130
+Nama Pembeli    : Sabrina Heryanti Suryandari
+NO Telepon      : 08123309674
+Alamat Email    : Sabrinaheryanti@gmail.com
+Alamat          : pondok maritim indah 0/24 Surabaya
+Nama Barang     : tanah 20x25
+Deskripsi       : Tanah dekat wisata, di daerah kota batu,cocok dibuat vila
+Harga Barang    : 2.000.000.000
+
+

@@ -1,0 +1,53 @@
+Data Lelalang
+
+
+No Identitas    : 12345
+Nama Pembeli    : sabrina
+NO Telepon      : 08122222
+Alamat Email    : sabrina@gmail
+Alamat          : surabaya
+Nama Barang     : Samsung Galaxy S21 Ultra 5G
+Harga Penawaran : 15.000.000
+
+No Identitas    : 123456789
+Nama Pembeli    : sasa
+NO Telepon      : 08122222
+Alamat Email    : sasa@gmail
+Alamat          : surabaya
+Nama Barang     : Iphone 11 Pro MAX
+Harga Penawaran : 16.500.000
+
+No Identitas    : 123456
+Nama Pembeli    : nana
+NO Telepon      : 08234444
+Alamat Email    : nana@gmail
+Alamat          : malang
+Nama Barang     : Canon
+Harga Penawaran : 14.500.000
+
+No Identitas    : 1234567
+Nama Pembeli    : vivi
+NO Telepon      : 0812344444444444444
+Alamat Email    : vivi@gmail
+Alamat          : jogja
+Nama Barang     : Nikon D-90
+Harga Penawaran : 5.000.000
+
+No Identitas    : 19081010160
+Nama Pembeli    : Claudia Millennia Suprapto
+NO Telepon      : 081123660700
+Alamat Email    : Claudiamillennia@gmail.com
+Alamat          : pulo kulon, Mojokerto
+Nama Barang     : Iphone 11 Pro Max
+Harga Penawaran : 18.000.000.000
+
+
+No Identitas    : 19081010168
+Nama Pembeli    : Vincentia Indri Octaviani
+NO Telepon      : 082117720531
+Alamat Email    : vincentiaindri@gmail.com
+Alamat          : perumahan wisata bukit mas, Surabaya
+Nama Barang     : Fujifilm x-A7
+Harga Penawaran : 10.000.000
+
+

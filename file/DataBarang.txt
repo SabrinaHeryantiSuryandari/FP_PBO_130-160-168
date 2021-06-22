@@ -1,0 +1,24 @@
+Data Barang yang dijual
+#Barang Lagi proses Persetujuan
+
+Nama Barang     : tas 
+Deskripsi       : bahan kulit jarang di pakai masih mulus 
+Harga Barang    : 5.000.000
+
+Nama Barang     : Rumah 10x15
+Deskripsi       : Alamat di jl cinta ku, ukuran tanah 10x15 sangat luas untuk keluarga kecil, di dekat toll indonesa
+Harga Barang    : 2.000.000.000
+
+Nama Barang     : Tanah Petak
+Deskripsi       : Tanah ukuran 100x50
+Harga Barang    : 3.000.000.000
+
+Nama Barang     : antis
+Deskripsi       : wangi jasmin, untuk menghilangkan 99% kuman, 
+Harga Barang    : 5.000
+
+Nama Barang     : tanah 20x25
+Deskripsi       : Tanah dekat wisata, di daerah kota batu,cocok dibuat vila
+Harga Barang    : 2.000.000.000
+
+
